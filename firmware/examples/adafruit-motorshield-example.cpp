@@ -1,5 +1,5 @@
 #include "application.h"
-#include "Adafruit-MotorShield-V2/Adafruit_MotorShield.h"
+#include "Adafruit-MotorShield-V2/Adafruit-MotorShield-V2.h"
 #include "Adafruit-MotorShield-V2/Adafruit_PWMServoDriver.h"
 
 
