@@ -13,3 +13,8 @@
  Ported to the Spark Core by TJ Hunter
  BSD license, check LICENSE for more information.
  All text above must be included in any redistribution.
+
+ See the following URL for help on connecting the Motor Shield
+ to the spark core:
+
+ https://community.spark.io/t/adafruit-motor-shield-v2-progress/5218

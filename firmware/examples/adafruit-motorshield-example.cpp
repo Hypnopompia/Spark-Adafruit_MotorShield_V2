@@ -2,6 +2,11 @@
 #include "Adafruit-MotorShield-V2/Adafruit-MotorShield-V2.h"
 #include "Adafruit-MotorShield-V2/Adafruit_PWMServoDriver.h"
 
+/*
+ Visit the following url for help on connecting the motor shield
+ to the spark core:
+ https://community.spark.io/t/adafruit-motor-shield-v2-progress/5218
+*/
 
 // Create the motor shield object with the default I2C address
 Adafruit_MotorShield AFMS = Adafruit_MotorShield(); 
