@@ -1,7 +1,0 @@
-{
-  "name": "Adafruit-MotorShield-V2",
-  "author": "TJ Hunter <tjhunter@gmail.com>",
-  "license": "BSD",
-  "version": "0.0.2",
-  "description": "This is the library for the Adafruit Motor Shield V2 for the Spark Core"
-}
